@@ -29,14 +29,17 @@ li {
 .wind {
   padding-left: 150px;
 }
+.weather-app-wrapper {
+  max-width: 650px;
+  margin: 40px auto;
+}
 
 .weather-app {
   border: 1px solid #d9d9d9;
-  padding: 20px;
-  margin: 30px auto;
   border-radius: 30px;
-  max-width: 650px;
+  padding: 20px;
 }
+
 .weather-icon {
   height: 65px;
   width: 65px;
