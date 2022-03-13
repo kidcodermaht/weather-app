@@ -60,3 +60,11 @@ li {
 .form.control {
   margin: 20px;
 }
+
+.clearfix .active {
+  color: black;
+}
+
+.clearfix .active:hover {
+  text-decoration: none;
+}
